@@ -25,6 +25,12 @@ Only the latest release of the [Community Edition of Atlas](https://atlasgo.io/c
 
 Choosing a specific version will cause it to be built from source.
 
+### Building from source
+
+[Go](https://go.dev/) is required to build the Atlas CLI.
+
+If `go` is neither in the `PATH` nor `/usr/local/go/bin/go`, it is installed from the [Go Feature](https://github.com/devcontainers/features/tree/main/src/go) (skipping tools installation) and is currently available for Debian/Ubuntu-based distributions with the apt package manager installed.
+
 ## Third Party
 
 -   The [Atlas installation script](./atlas.sh) is a copy of the original one from https://atlasgo.sh.
