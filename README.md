@@ -6,7 +6,7 @@ This repository provides the following [Development Container](https://container
 
 | Feature | Version | Description |
 | ------- | ------- | ----------- |
-| [atlas](./src/atlas/README.md) | 1.0.0 | [Atlas](https://atlasgo.io) is a language-independent tool for managing and migrating database schemas using modern DevOps principles. |
+| [atlas](./src/atlas/README.md) | 1.0.3 | [Atlas](https://atlasgo.io) is a language-independent tool for managing and migrating database schemas using modern DevOps principles. |
 | [buf](./src/buf/README.md) | 1.0.0 | The Buf CLI enables building and management of Protobuf APIs |
 
 ## Usage
