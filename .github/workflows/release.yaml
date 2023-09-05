@@ -17,7 +17,7 @@ jobs:
       packages: write
     steps:
       - name: 'Checkout'
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         # Required for main README.md to be updated
       - name: Setup Go
         uses: actions/setup-go@v4
